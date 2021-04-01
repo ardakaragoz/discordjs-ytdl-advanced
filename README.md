@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
 <style>
 table {
   font-family: arial, sans-serif;
@@ -18,7 +19,9 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
+
 </head>
+
 <body>
 
 # discordjs-ytdl-advanced
