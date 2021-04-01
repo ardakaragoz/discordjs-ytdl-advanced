@@ -39,7 +39,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var Discord = require('discord.js');
 var client = new Discord.Client();
 var dya = require("./main.js"); //discordjs-ytdl-advanced
-client.login("Nzk3NDQyNDU3MDc5MTE5ODcy.X_miKQ.yo2luslsqZsDvABOSP-jjmaHfF4");
+client.login("TOKEN");
 client.on('message', function (message) { return __awaiter(void 0, void 0, void 0, function () {
     var args, yz, z, song, embed;
     return __generator(this, function (_a) {
