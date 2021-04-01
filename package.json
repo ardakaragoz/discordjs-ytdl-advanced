@@ -1,0 +1,49 @@
+{
+  "name": "discordjs-ytdl-advanced",
+  "version": "0.1.0",
+  "description": "Better version of discordjs-ytdl. No API key, faster and more sense results.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test",
+    "start": "ts-node test",
+    "build": "tsc test"
+  },
+  "types": "main.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardakaragoz/discordjs-ytdl-advanced.git"
+  },
+  "keywords": [
+    "Discord",
+    "Discord-Music",
+    "Music",
+    "Yt-Search",
+    "Youtube",
+    "Search",
+    "Discord.js",
+    "Ytdl",
+    "SongInfo"
+  ],
+  "author": "Arda Karagoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardakaragoz/discordjs-ytdl-advanced/issues"
+  },
+  "homepage": "https://github.com/ardakaragoz/discordjs-ytdl-advanced#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.35"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "cheerio": "^1.0.0-rc.5",
+    "dasu": "^0.4.1",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.8",
+    "human-time": "^0.0.2",
+    "jsonpath-plus": "^5.0.4",
+    "querystring": "^0.2.1",
+    "spotify-url-info": "^2.2.0",
+    "url": "^0.11.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
