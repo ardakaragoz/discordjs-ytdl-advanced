@@ -3,6 +3,7 @@
 <head>
   
 <style>
+  
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -18,6 +19,7 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
 </style>
 
 </head>
